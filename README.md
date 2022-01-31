@@ -7,3 +7,5 @@ Microprocessor Applications - Embedded software based in C and Assembly
 Portable ECG - Embedded software based in C
 
 Reinforcement Learning - Machine Learning based in Python
+
+MIPS CPU - VHDL
